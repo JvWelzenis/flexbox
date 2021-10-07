@@ -1,0 +1,18 @@
+.blogpost { 
+    width: 300px; 
+    border: 1px solid black; 
+}
+
+.blog-container {
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+#kaas {
+    align-self: flex-end;
+}
+
+#zee {
+    align-self: flex-end;
+}
